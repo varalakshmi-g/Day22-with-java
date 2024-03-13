@@ -58,4 +58,8 @@ Explanation:
 
 We took sorted array so all the elements in array are in ascending order.  Firstly we have to initialize two arrays named as ar1, ar2. To get common elements we have to compare ar1[i] and ar2[j]. If they are equal increment the i value else increment the j value. After incrementing again compare ar1[i] and ar2[j], if ar[i] > ar2[j] then increment j value.  if both conditions fare false, then increment i value.
 
+Apart from this , I learned  about method overloading in java.
+
+Method verloading in java is defined as 
+
 
