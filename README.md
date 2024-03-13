@@ -60,6 +60,14 @@ We took sorted array so all the elements in array are in ascending order.  First
 
 Apart from this , I learned  about method overloading in java.
 
-Method verloading in java is defined as 
+Method verloading in java is defined as  multiple methods with the same name inside the same class is known as method overloading.
+
+we can overcome naming conusion in java by using three points. they are
+
+1. check for the name of method
+2. Number of parameters of a method
+3. Type of parameters of a method
+
+
 
 
